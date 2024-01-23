@@ -4,7 +4,7 @@ I'm Andre Sionek, a Lead Software/Data Engineer from Brazil, but living in Londo
 
 * 🔭 I have worked in a variety of businesses: financial services, marketplaces, real estate, online food delivery services. 
 * ❤️ I love to work at the intersection of Data and Software Engineering.
-* 😴 I'm lazy. So I try to automate everything I can.
+* 😴 I'm lazy. So I tend to automate everything I can.
 * ☁️ I work on the cloud... a.k.a. AWS.
 * 💬 I love talking about Infrastructure as Code, especially AWS CDK.
 * 📘 I'm writing a book and I really enjoy teaching!
