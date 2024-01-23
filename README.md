@@ -13,9 +13,12 @@ I'm Andre Sionek, a Lead Software/Data Engineer from Brazil, but living in Londo
 ## 🔗 Connect with me
 <a href="https://medium.com/@sionek" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://linkedin.com/in/andresionek" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
 
 ## ⚡ Stack
 
 * **Data Engineering:** Airflow, dbt, Spark, Databricks, Delta, EMR, Glue, Athena, Redshift, Snowflake, Kinesis.
 * **Software Engineering:** Lambda, ECS, Step Functions, SNS, SQS, RDS, ElasticSearch, AppSync, GraphQL, REST, FastAPI, SQLModel, DynamoDB.
 * **DevOps:** AWS CDK, CloudFormation, GitHub Actions, CircleCI, PagerDuty, Docker.
+
+## Checkout my Book 
