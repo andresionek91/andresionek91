@@ -23,6 +23,3 @@ I'm Andre Sionek, a Lead Software/Data Engineer from Brazil, but living in Londo
 * **Software Engineering:** Lambda, ECS, Step Functions, SNS, SQS, RDS, ElasticSearch, AppSync, GraphQL, REST, FastAPI, SQLModel, DynamoDB.
 * **DevOps:** AWS CDK, CloudFormation, GitHub Actions, CircleCI, PagerDuty, Docker.
 
-## 📘 Checkout my book
-
-https://github.com/orgs/Real-Life-IaC
